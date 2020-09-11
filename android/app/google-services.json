@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1023103532191",
+    "firebase_url": "https://cleanziy.firebaseio.com",
+    "project_id": "cleanziy",
+    "storage_bucket": "cleanziy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023103532191:android:003761393eedeff695b6aa",
+        "android_client_info": {
+          "package_name": "com.cleanziy.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023103532191-ojl4cqj5st37sigtrm1qd5k7n8uo0a73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALN_n2icogx6--o1VshAoQ9H9vQIwTaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023103532191-ojl4cqj5st37sigtrm1qd5k7n8uo0a73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023103532191:android:2d4b96355cd7f28695b6aa",
+        "android_client_info": {
+          "package_name": "com.cleanziy.laundries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023103532191-ojl4cqj5st37sigtrm1qd5k7n8uo0a73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALN_n2icogx6--o1VshAoQ9H9vQIwTaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023103532191-ojl4cqj5st37sigtrm1qd5k7n8uo0a73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023103532191:android:d7fc3a9b9e99b7c095b6aa",
+        "android_client_info": {
+          "package_name": "com.cleanziy.washer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023103532191-ojl4cqj5st37sigtrm1qd5k7n8uo0a73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALN_n2icogx6--o1VshAoQ9H9vQIwTaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023103532191-ojl4cqj5st37sigtrm1qd5k7n8uo0a73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
